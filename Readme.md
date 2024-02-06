@@ -6,4 +6,3 @@
 
 ---
 
-ssh: git@github.com:VenerZag/cat-energy.git
